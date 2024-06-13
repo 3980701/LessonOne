@@ -1,0 +1,15 @@
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\bin\Debug\net8.0\LessonOne.Concole.exe
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\bin\Debug\net8.0\LessonOne.Concole.deps.json
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\bin\Debug\net8.0\LessonOne.Concole.runtimeconfig.json
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\bin\Debug\net8.0\LessonOne.Concole.dll
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\bin\Debug\net8.0\LessonOne.Concole.pdb
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\LessonOne.Concole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\LessonOne.Concole.AssemblyInfoInputs.cache
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\LessonOne.Concole.AssemblyInfo.cs
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\LessonOne.Concole.csproj.CoreCompileInputs.cache
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\LessonOne.Concole.sourcelink.json
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\LessonOne.Concole.dll
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\refint\LessonOne.Concole.dll
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\LessonOne.Concole.pdb
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\LessonOne.Concole.genruntimeconfig.cache
+C:\Users\pkekesi1\Documents\Develpment\LessonOne\LessonOne.Concole\obj\Debug\net8.0\ref\LessonOne.Concole.dll
